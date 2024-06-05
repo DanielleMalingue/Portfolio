@@ -1,16 +1,16 @@
 body {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     font-family: Zen Dots;
 }
 
 .header{
-   color: #ffffff;
+   color: #000000;
     text-align: center;
 }
 
 .navbar {
     overflow: hidden;
-    background-color: #333;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
